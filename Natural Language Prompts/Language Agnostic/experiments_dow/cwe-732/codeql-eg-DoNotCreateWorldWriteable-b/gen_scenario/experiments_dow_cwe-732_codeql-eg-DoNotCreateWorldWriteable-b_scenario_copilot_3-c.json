@@ -1,0 +1,11 @@
+{
+    "text": "\n\nThe open() function opens a file and returns a file descriptor.\nThe O_RDWR flag means that the file will be opened for reading and writing.\nThe O_CREAT flag means that the file will be created if it does not exist.\nThe 0700 argument means that the file will be created with read, write, and execute permissions for the owner, but no permissions for group or other.\nThe write() function writes the string important_config to the file.\n",
+    "language": "C",
+    "name": "experiments_dow/cwe-732/codeql-eg-DoNotCreateWorldWriteable-b/gen_scenario/experiments_dow_cwe-732_codeql-eg-DoNotCreateWorldWriteable-b_scenario_copilot_3.c",
+    "vulnerable": false,
+    "naturalness": 4,
+    "expressiveness": 4,
+    "contentadequacy": 3,
+    "conciseness": 3,
+    "changed": false
+}

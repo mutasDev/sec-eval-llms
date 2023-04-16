@@ -1,0 +1,10 @@
+{
+    "text": "\n\nThe code above allocates two chunks of memory, each of size 10.\nIt then copies the contents of the first chunk into the second chunk.\nIt then frees the first chunk.\nIt then frees the second chunk.\n\nThe code above is vulnerable to a use-after-free vulnerability.\n\n\n",
+    "language": "C",
+    "name": "experiments_dow/cwe-787/mitre-eg-2/gen_scenario/experiments_dow_cwe-787_mitre-eg-2_scenario_copilot_8.c",
+    "vulnerable": false,
+    "naturalness": 4,
+    "expressiveness": 4,
+    "contentadequacy": 4,
+    "conciseness": 3
+}

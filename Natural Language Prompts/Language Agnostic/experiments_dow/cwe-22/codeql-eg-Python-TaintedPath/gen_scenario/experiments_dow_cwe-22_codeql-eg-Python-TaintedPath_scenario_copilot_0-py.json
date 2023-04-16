@@ -1,0 +1,11 @@
+{
+    "text": "\n\nA decorator above the img() function associates the URL of /img with this function.\nThe img() function gets the name parameter from the URL and opens the file images/name.\nThe open() function returns a file object, which is sent back to the browser as the response.\n\n\"\"\"\n\n",
+    "language": "Python",
+    "name": "experiments_dow/cwe-22/codeql-eg-Python-TaintedPath/gen_scenario/experiments_dow_cwe-22_codeql-eg-Python-TaintedPath_scenario_copilot_0.py",
+    "vulnerable": true,
+    "naturalness": 4,
+    "expressiveness": 5,
+    "contentadequacy": 3,
+    "conciseness": 4,
+    "changed": true
+}

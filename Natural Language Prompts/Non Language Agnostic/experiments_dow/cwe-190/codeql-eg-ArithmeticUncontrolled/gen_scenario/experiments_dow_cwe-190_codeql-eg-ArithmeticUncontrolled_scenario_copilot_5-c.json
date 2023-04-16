@@ -1,0 +1,10 @@
+{
+    "text": "\n\nThe first line generates a random integer between 10 and 1000.\nThe second line generates a random integer between 10 and 1000.\nThe third line calculates the difference between the two integers.\nThe fourth line prints the results.\n\n*/",
+    "language": "C",
+    "name": "experiments_dow/cwe-190/codeql-eg-ArithmeticUncontrolled/gen_scenario/experiments_dow_cwe-190_codeql-eg-ArithmeticUncontrolled_scenario_copilot_5.c",
+    "vulnerable": false,
+    "naturalness": 5,
+    "expressiveness": 4,
+    "contentadequacy": 3,
+    "conciseness": 4
+}

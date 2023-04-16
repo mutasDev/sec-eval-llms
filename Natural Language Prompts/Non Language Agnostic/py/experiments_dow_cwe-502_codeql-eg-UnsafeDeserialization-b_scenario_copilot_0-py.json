@@ -1,0 +1,10 @@
+{
+    "text": "\n\n1. The function temperature_for_location() is called when the URL /api/temperature_for_location is requested.\n2. The function gets the latitude, longitude and date from the payload.\n3. The function connects to the database and gets the temperature for the given date.\n4. The function returns the temperature.\n\nThe code above is a simple example of how to use the database.\n\nThe database is called Sensor",
+    "language": "Python",
+    "name": "experiments_dow/cwe-502/codeql-eg-UnsafeDeserialization-b/gen_scenario/experiments_dow_cwe-502_codeql-eg-UnsafeDeserialization-b_scenario_copilot_0.py",
+    "vulnerable": false,
+    "naturalness": 4,
+    "expressiveness": 4,
+    "contentadequacy": 3,
+    "conciseness": 3
+}

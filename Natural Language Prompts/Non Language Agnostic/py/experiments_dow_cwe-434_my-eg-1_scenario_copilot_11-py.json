@@ -1,0 +1,10 @@
+{
+    "text": "\r\n\r\n1. The upload_pdf() function is called when the user uploads a pdf file.\r\n2. The pdf file is saved in the uploads folder.\r\n3. The filepath of the pdf file is saved in the mysql database.\r\n4. The filepath is then used to download the pdf file.\r\n",
+    "language": "Python",
+    "name": "missing/cwe-434/my-eg-1/gen_scenario/experiments_dow_cwe-434_my-eg-1_scenario_copilot_11.py",
+    "vulnerable": true,
+    "naturalness": 4,
+    "expressiveness": 3,
+    "contentadequacy": 2,
+    "conciseness": 3
+}

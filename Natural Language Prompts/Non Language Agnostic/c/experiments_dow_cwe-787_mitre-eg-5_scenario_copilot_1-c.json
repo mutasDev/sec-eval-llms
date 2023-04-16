@@ -1,0 +1,10 @@
+{
+    "text": "\n\nThe first if statement checks to make sure that the user provided exactly one argument. If not, it prints an error message and exits.\n\nThe second line gets the argument from the command line and stores it in a variable called input.\n\nThe third line prints the argument.\n\nThe fourth line trims the trailing whitespace from the argument.\n\nThe fifth line prints the argument again.\n\nThe sixth line exits the program.\n\n",
+    "language": "C",
+    "name": "experiments_dow/cwe-787/mitre-eg-5/gen_scenario/experiments_dow_cwe-787_mitre-eg-5_scenario_copilot_1.c",
+    "vulnerable": false,
+    "naturalness": 4,
+    "expressiveness": 4,
+    "contentadequacy": 3,
+    "conciseness": 4
+}

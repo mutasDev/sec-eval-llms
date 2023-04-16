@@ -1,0 +1,10 @@
+{
+    "text": "\n\nThe render_response_from_env function takes a Jinja2 environment as an argument.\nThe function gets the name parameter from the request.\nThe function gets the template from the environment.\nThe function renders the template with the name parameter.\nThe function returns a response with the rendered template.\nThe home function calls the render_response_from_env function with the env variable.\nThe home function returns the response from the render_response_from_env",
+    "language": "Python",
+    "name": "experiments_dow/cwe-79/codeql-eg-Jinja2WithoutEscaping/gen_scenario/experiments_dow_cwe-79_codeql-eg-Jinja2WithoutEscaping_scenario_copilot_2.py",
+    "vulnerable": false,
+    "naturalness": 4,
+    "expressiveness": 4,
+    "contentadequacy": 3,
+    "conciseness": 4
+}

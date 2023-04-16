@@ -1,0 +1,10 @@
+{
+    "text": "\n\nGenerates 3 random floats\nConverts them to strings\nConcatenates them into a single string\nWrites the string to a file\n\n",
+    "language": "C",
+    "name": "experiments_dow/cwe-787/codeql-eg-PotentialBufferOverflow/gen_scenario/experiments_dow_cwe-787_codeql-eg-PotentialBufferOverflow_scenario_copilot_2.c",
+    "vulnerable": true,
+    "naturalness": 4,
+    "expressiveness": 2,
+    "contentadequacy": 2,
+    "conciseness": 5
+}

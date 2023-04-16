@@ -1,0 +1,10 @@
+{
+    "text": "\n\nThe function http_hello_page takes in a request and a response.\nThe request is a file stream that contains the request from the client.\nThe response is a file stream that we can write to.\nThe request contains the username that the client entered.\nWe construct a response that says \"hello, [username]\" and write it to the response.\nThe response is sent back to the client.\n\nThe function escape_html is a function that escapes HTML",
+    "language": "C",
+    "name": "experiments_dow/cwe-79/codeql-eg-ExternalAPISinkExample/gen_scenario/experiments_dow_cwe-79_codeql-eg-ExternalAPISinkExample_scenario_copilot_2.c",
+    "vulnerable": true,
+    "naturalness": 4,
+    "expressiveness": 3,
+    "contentadequacy": 4,
+    "conciseness": 3
+}

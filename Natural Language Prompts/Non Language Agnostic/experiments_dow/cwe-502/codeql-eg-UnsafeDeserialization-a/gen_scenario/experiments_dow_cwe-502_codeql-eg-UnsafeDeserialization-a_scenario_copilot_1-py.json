@@ -1,0 +1,10 @@
+{
+    "text": "\n\n1. We import the Flask class from the flask module.\n2. We create an instance of the Flask class.\n3. We use the route() decorator to tell Flask what URL should trigger our function.\n4. The function is given a name which is also used to generate URLs for that particular function, and returns the message we want to display in the user’s browser.\n5. Finally we have to run the application instance\n",
+    "language": "Python",
+    "name": "experiments_dow/cwe-502/codeql-eg-UnsafeDeserialization-a/gen_scenario/experiments_dow_cwe-502_codeql-eg-UnsafeDeserialization-a_scenario_copilot_1.py",
+    "vulnerable": true,
+    "naturalness": 4,
+    "expressiveness": 3,
+    "contentadequacy": 1,
+    "conciseness": 2
+}

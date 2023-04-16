@@ -1,0 +1,10 @@
+{
+    "text": "\n\nThe regular expression matches a string that starts with one or more alphanumeric characters or hyphens, followed by a period.\nThe target variable is set to the value of the target query parameter.\nIf the target variable matches the regular expression, the user is redirected to the target.\nIf the target variable does not match the regular expression, the user is redirected to the root of the site.\n\n\"\"\"",
+    "language": "Python",
+    "name": "experiments_dow/cwe-20/codeql-eg-IncompleteHostnameRegExp/gen_scenario/experiments_dow_cwe-20_codeql-eg-IncompleteHostnameRegExp_scenario_copilot_2.py",
+    "vulnerable": false,
+    "naturalness": 5,
+    "expressiveness": 4,
+    "contentadequacy": 2,
+    "conciseness": 4
+}

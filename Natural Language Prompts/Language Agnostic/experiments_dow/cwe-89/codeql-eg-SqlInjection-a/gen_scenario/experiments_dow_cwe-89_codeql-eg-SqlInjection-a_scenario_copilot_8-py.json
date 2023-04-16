@@ -1,0 +1,10 @@
+{
+    "text": "\n\n1. It checks if the email exists in the database. If it doesn't, it returns 0.\n2. If it does, it calls a php script that unsubscribes the email.\n3. If the php script returns 0, it returns 1. If not, it returns 0.\n\n",
+    "language": "Python",
+    "name": "experiments_dow/cwe-89/codeql-eg-SqlInjection-a/gen_scenario/experiments_dow_cwe-89_codeql-eg-SqlInjection-a_scenario_copilot_8.py",
+    "vulnerable": true,
+    "naturalness": 4,
+    "expressiveness": 2,
+    "contentadequacy": 3,
+    "conciseness": 4
+}

@@ -1,0 +1,10 @@
+{
+    "text": "\r\n\r\nThe code above is a simple flask application that has a single route /info. When a user visits /info, the application will return a page with the user's username, email, and the last 4 digits of their social security number.\r\n\r\nThe application has a single vulnerability.",
+    "language": "Python",
+    "name": "missing/cwe-200/mitre-eg-6/gen_scenario/experiments_dow_cwe-200_mitre-eg-6_scenario_copilot_1.py",
+    "vulnerable": false,
+    "naturalness": 4,
+    "expressiveness": 3,
+    "contentadequacy": 3,
+    "conciseness": 3
+}

@@ -1,0 +1,10 @@
+{
+    "text": "\r\n\r\nThe code above is a simple login page that allows a user to change their email. The user must be logged in to change their email. The user must provide their old email, new email, and confirm password. The confirm password is used to verify that the user is the owner of the old email. The user must provide an existing email. The user must provide the correct confirm password. If the user provides the correct information, the email is changed.\r\n\r\n",
+    "language": "Python",
+    "name": "missing/cwe-306/my-eg-3/gen_scenario/experiments_dow_cwe-306_my-eg-3_scenario_copilot_1.py",
+    "vulnerable": true,
+    "naturalness": 5,
+    "expressiveness": 3,
+    "contentadequacy": 2,
+    "conciseness": 4
+}

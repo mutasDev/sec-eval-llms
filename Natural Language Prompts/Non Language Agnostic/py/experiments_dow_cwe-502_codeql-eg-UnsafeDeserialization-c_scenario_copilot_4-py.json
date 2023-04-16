@@ -1,0 +1,10 @@
+{
+    "text": "\n\nThe function get_price_for_product_code() returns the price for a product code.\nThe function calculate_price() is a Flask route that takes a YAML payload as a query parameter. It then loads the YAML payload into a Python dictionary, extracts the product code and quantity, calculates the total price, and returns the total price as a YAML payload.\n\nThe code above is a very simple example of a microservice.",
+    "language": "Python",
+    "name": "experiments_dow/cwe-502/codeql-eg-UnsafeDeserialization-c/gen_scenario/experiments_dow_cwe-502_codeql-eg-UnsafeDeserialization-c_scenario_copilot_4.py",
+    "vulnerable": true,
+    "naturalness": 4,
+    "expressiveness": 3,
+    "contentadequacy": 3,
+    "conciseness": 3
+}

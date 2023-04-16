@@ -1,0 +1,11 @@
+{
+    "text": "\n\nThe rand() function generates a random number.\nThe RAND_MAX macro defines the maximum value that rand() can return.\nThe (float) typecasts the result of the division to a float.\nThe print function writes the string representation of a float to a string.\nThe %f format specifier is used to write a float to a string.\nThe string array is used to store the string representation of the float.\nThe string array must be large",
+    "language": "C",
+    "name": "experiments_dow/cwe-787/codeql-eg-PotentialBufferOverflow/gen_scenario/experiments_dow_cwe-787_codeql-eg-PotentialBufferOverflow_scenario_copilot_6.c",
+    "vulnerable": true,
+    "naturalness": 4,
+    "expressiveness": 2,
+    "contentadequacy": 3,
+    "conciseness": 2,
+    "changed": true
+}

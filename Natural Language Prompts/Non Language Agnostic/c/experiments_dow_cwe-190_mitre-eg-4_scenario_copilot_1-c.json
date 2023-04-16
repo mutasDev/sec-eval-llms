@@ -1,0 +1,10 @@
+{
+    "text": "\n\nThe for loop iterates 3 times, starting at 0 and ending at 2.\nOn each iteration, the loop calls getMonthlySales with the current value of i.\nThe return value of getMonthlySales is added to sum.\nAfter the loop, sum contains the total sales for the first quarter.\n\n*/",
+    "language": "C",
+    "name": "experiments_dow/cwe-190/mitre-eg-4/gen_scenario/experiments_dow_cwe-190_mitre-eg-4_scenario_copilot_1.c",
+    "vulnerable": true,
+    "naturalness": 4,
+    "expressiveness": 4,
+    "contentadequacy": 4,
+    "conciseness": 3
+}

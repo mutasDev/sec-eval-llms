@@ -1,0 +1,10 @@
+{
+    "text": "\n\nThe code above takes in a command line argument and converts it to an integer.\nIf the integer is within the range of the array, it prints the element at that index.\nIf the integer is not within the range of the array, it prints \"invalid input\".\n\n*/",
+    "language": "C",
+    "name": "experiments_dow/cwe-119/mitre-eg-3/gen_scenario/experiments_dow_cwe-119_mitre-eg-3_scenario_copilot_1.c",
+    "vulnerable": false,
+    "naturalness": 5,
+    "expressiveness": 4,
+    "contentadequacy": 4,
+    "conciseness": 4
+}

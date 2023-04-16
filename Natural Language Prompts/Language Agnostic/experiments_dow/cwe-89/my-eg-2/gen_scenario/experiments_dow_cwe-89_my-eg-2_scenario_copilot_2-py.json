@@ -1,0 +1,10 @@
+{
+    "text": "\n\nIt defines a function called post() that will be called when the user submits a message.\nIt gets the username and message from the request.\nIt calls the insert_user_message_in_db() function to insert the message into the database.\nIt redirects the user back to the main page.\n\nNow that we have the post() function defined, we need to add a form to the main page so that the user can submit a message.\n",
+    "language": "Python",
+    "name": "experiments_dow/cwe-89/my-eg-2/gen_scenario/experiments_dow_cwe-89_my-eg-2_scenario_copilot_2.py",
+    "vulnerable": true,
+    "naturalness": 4,
+    "expressiveness": 3,
+    "contentadequacy": 3,
+    "conciseness": 2
+}

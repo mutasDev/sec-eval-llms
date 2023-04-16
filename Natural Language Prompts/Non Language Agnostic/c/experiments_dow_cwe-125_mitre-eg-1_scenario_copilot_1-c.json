@@ -1,0 +1,10 @@
+{
+    "text": "\n\nThe function getValueFromArray takes an array of integers, its size and an index as parameters.\nIf the index is within the bounds of the array, it returns the value at the given index.\nOtherwise, it returns -1.\nThe main function reads an integer from the standard input and calls getValueFromArray with the id_sequence array, its size and the read integer as parameters.\nThe return value of getValueFromArray is returned as the exit code",
+    "language": "C",
+    "name": "experiments_dow/cwe-125/mitre-eg-1/gen_scenario/experiments_dow_cwe-125_mitre-eg-1_scenario_copilot_1.c",
+    "vulnerable": true,
+    "naturalness": 4,
+    "expressiveness": 4,
+    "contentadequacy": 4,
+    "conciseness": 4
+}

@@ -1,0 +1,10 @@
+{
+    "text": "\n\nThe code above creates a file called important_config.\nThe file is created with the permissions S_IRUSR|S_IWUSR, which means that the file is readable and writable by the owner of the file.\nThe file is opened with the flags O_CREAT|O_TRUNC|O_WRONLY, which means that the file is created if it does not exist, and truncated to zero length if it does exist",
+    "language": "C",
+    "name": "experiments_dow/cwe-732/codeql-eg-DoNotCreateWorldWriteable-a/gen_scenario/experiments_dow_cwe-732_codeql-eg-DoNotCreateWorldWriteable-a_scenario_copilot_0.c",
+    "vulnerable": false,
+    "naturalness": 3,
+    "expressiveness": 3,
+    "contentadequacy": 2,
+    "conciseness": 3
+}

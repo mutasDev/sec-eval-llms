@@ -1,0 +1,10 @@
+{
+    "text": "\n\nThe calculate_price function is the entry point for the API.\nIt receives a YAML payload as a query parameter.\nIt parses the YAML payload and extracts the product_code and quantity.\nIt calculates the total price by multiplying the price of the product by the quantity.\nIt returns the total price as a string.\n\nThe code above is a very simple example of a Flask API.\n\nThe Flask framework is a very popular framework",
+    "language": "Python",
+    "name": "experiments_dow/cwe-502/codeql-eg-UnsafeDeserialization-c/gen_scenario/experiments_dow_cwe-502_codeql-eg-UnsafeDeserialization-c_scenario_copilot_0.py",
+    "vulnerable": false,
+    "naturalness": 4,
+    "expressiveness": 3,
+    "contentadequacy": 3,
+    "conciseness": 2
+}

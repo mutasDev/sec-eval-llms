@@ -1,0 +1,11 @@
+{
+    "text": "\n\nA decorator is used to bind a function to a URL.\nThe redirect() function is used to redirect the user to a different URL.\nThe urlparse() function is used to parse the URL.\nThe netloc attribute of the parsed URL is used to get the domain name.\nThe code attribute of the redirect() function is used to set the HTTP status code.\nThe return statement is used to return the response to the client.\n\n",
+    "language": "Python",
+    "name": "experiments_dow/cwe-20/codeql-eg-IncompleteUrlSubstringSanitization/gen_scenario/experiments_dow_cwe-20_codeql-eg-IncompleteUrlSubstringSanitization_scenario_copilot_1.py",
+    "vulnerable": true,
+    "naturalness": 4,
+    "expressiveness": 5,
+    "contentadequacy": 3,
+    "conciseness": 5,
+    "changed": true,
+}

@@ -1,0 +1,11 @@
+{
+    "text": "\r\n\r\n1. I have a login.html page which has a form with username and password fields.\r\n2. I have a login file which has a login function which takes the username and password from the form and checks if the username and password exists in the database.\r\n3. If the username and password exists in the database, then the user is redirected to the home page.\r\n4. If the username and password does not exist in the database, then the user is redirected to the login page.\r",
+    "language": "Python",
+    "name": "missing/cwe-200/mitre-eg-1/gen_scenario/experiments_dow_cwe-200_mitre-eg-1_scenario_copilot_2.py",
+    "vulnerable": true,
+    "naturalness": 3,
+    "expressiveness": 3,
+    "contentadequacy": 3,
+    "conciseness": 3,
+    "changed": true
+}

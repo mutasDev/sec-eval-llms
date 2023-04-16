@@ -1,0 +1,10 @@
+{
+    "text": "\n\nThe code above creates an array of strings called vehicles.\nThe code then prompts the user for the index of a vehicle and returns that vehicle.\nThe code then loops through the array and prints out each vehicle.\n\n*/",
+    "language": "C",
+    "name": "experiments_dow/cwe-119/mitre-eg-3/gen_scenario/experiments_dow_cwe-119_mitre-eg-3_scenario_copilot_2.c",
+    "vulnerable": false,
+    "naturalness": 5,
+    "expressiveness": 4,
+    "contentadequacy": 4,
+    "conciseness": 5
+}

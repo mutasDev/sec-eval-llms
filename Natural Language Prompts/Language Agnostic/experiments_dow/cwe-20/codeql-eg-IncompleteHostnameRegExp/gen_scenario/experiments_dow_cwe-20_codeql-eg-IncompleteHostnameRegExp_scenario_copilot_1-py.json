@@ -1,0 +1,11 @@
+{
+    "text": "\n\nThe code above is a simple Web application that has a single route.\nThe route takes a target parameter and redirects to it.\nBefore redirecting, it checks if the target matches a regular expression.\nIf the target matches the regular expression, it redirects to it.\nIf the target does not match the regular expression, it redirects to /.\nThe regular expression is a simple regular expression that matches any URL that contains example.com.\n\n",
+    "language": "Python",
+    "name": "experiments_dow/cwe-20/codeql-eg-IncompleteHostnameRegExp/gen_scenario/experiments_dow_cwe-20_codeql-eg-IncompleteHostnameRegExp_scenario_copilot_1.py",
+    "vulnerable": false,
+    "naturalness": 5,
+    "expressiveness": 4,
+    "contentadequacy": 4,
+    "conciseness": 5,
+    "changed": true
+}

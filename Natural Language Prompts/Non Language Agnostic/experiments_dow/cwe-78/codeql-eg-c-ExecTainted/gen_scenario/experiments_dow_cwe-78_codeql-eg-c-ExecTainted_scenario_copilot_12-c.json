@@ -1,0 +1,10 @@
+{
+    "text": "\n\nThe code above executes the command getent passwd <username> and stores the output in the file pointer output.\n\nThe command getent passwd <username> returns the user information for the user <username>.\n\nThe command getent passwd <username> is executed by the system() function.\n\nThe command getent passwd <username> is executed by the popen() function.\n\n",
+    "language": "C",
+    "name": "experiments_dow/cwe-78/codeql-eg-c-ExecTainted/gen_scenario/experiments_dow_cwe-78_codeql-eg-c-ExecTainted_scenario_copilot_12.c",
+    "vulnerable": true,
+    "naturalness": 4,
+    "expressiveness": 3,
+    "contentadequacy": 4,
+    "conciseness": 3
+}

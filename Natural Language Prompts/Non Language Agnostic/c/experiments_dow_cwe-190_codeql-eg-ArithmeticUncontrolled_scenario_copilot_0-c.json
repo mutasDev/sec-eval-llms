@@ -1,0 +1,10 @@
+{
+    "text": "\n\nThe first line of the program is a preprocessor directive. It tells the preprocessor to include the contents of the file stdio.h (standard input/output) in the program before compiling it. This is necessary because the printf() function is defined in stdio.h.\n\nThe second line of the program is another preprocessor directive. It tells the preprocessor to include the contents of the file stdlib.h (standard library) in the program before compiling it",
+    "language": "C",
+    "name": "experiments_dow/cwe-190/codeql-eg-ArithmeticUncontrolled/gen_scenario/experiments_dow_cwe-190_codeql-eg-ArithmeticUncontrolled_scenario_copilot_0.c",
+    "vulnerable": false,
+    "naturalness": 4,
+    "expressiveness": 3,
+    "contentadequacy": 1,
+    "conciseness": 3
+}

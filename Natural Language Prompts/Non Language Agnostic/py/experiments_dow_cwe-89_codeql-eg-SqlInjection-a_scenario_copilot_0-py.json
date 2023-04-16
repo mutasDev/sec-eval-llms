@@ -1,0 +1,10 @@
+{
+    "text": "\n\n1. The user enters their email address into the unsubscribe form on the website.\n2. The email address is passed to the unsubscribe function.\n3. The unsubscribe function connects to the database and checks if the email address is in the database.\n4. If the email address is in the database, it is removed.\n5. If the email address is not in the database, the user is told that they are not in the database.\n",
+    "language": "Python",
+    "name": "experiments_dow/cwe-89/codeql-eg-SqlInjection-a/gen_scenario/experiments_dow_cwe-89_codeql-eg-SqlInjection-a_scenario_copilot_0.py",
+    "vulnerable": false,
+    "naturalness": 3,
+    "expressiveness": 3,
+    "contentadequacy": 1,
+    "conciseness": 3
+}

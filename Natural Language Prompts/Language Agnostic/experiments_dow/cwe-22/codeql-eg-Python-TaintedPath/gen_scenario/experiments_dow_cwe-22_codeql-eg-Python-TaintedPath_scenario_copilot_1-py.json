@@ -1,0 +1,11 @@
+{
+    "text": "\n\nA decorator is used to tell Flask what URL should trigger our function.\nThe function checks if the file exists in the images folder.\nIf the file exists, it sends the file to the browser.\n\n",
+    "language": "Python",
+    "name": "experiments_dow/cwe-22/codeql-eg-Python-TaintedPath/gen_scenario/experiments_dow_cwe-22_codeql-eg-Python-TaintedPath_scenario_copilot_1.py",
+    "vulnerable": true,
+    "naturalness": 4,
+    "expressiveness": 2,
+    "contentadequacy": 3,
+    "conciseness": 5,
+    "changed": true
+}

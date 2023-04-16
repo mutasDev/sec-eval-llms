@@ -1,0 +1,10 @@
+{
+    "text": "\n\nmalloc() allocates a block of memory of the specified size and returns a pointer to the beginning of the block.\n\nThe -> operator is used to access the members of a struct when we have a pointer to the struct.\n\nThe code above allocates a new person and sets the status to 0.\n\n",
+    "language": "C",
+    "name": "experiments_dow/cwe-476/codeql-eg-MissingNullTest-b/gen_scenario/experiments_dow_cwe-476_codeql-eg-MissingNullTest-b_scenario_copilot_2.c",
+    "vulnerable": true,
+    "naturalness": 4,
+    "expressiveness": 4,
+    "contentadequacy": 3,
+    "conciseness": 3
+}

@@ -1,0 +1,10 @@
+{
+    "text": "\n\nThe code above reads in a value from the command line and adds an offset of 1000 to it.\n\nThe offset is a constant value that is added to the value read in from the command line.\n\nThe offset is a constant value that is added to the value read in from the command line.\n\nThe offset is a constant value that is added to the value read in from the command line.\n\nThe offset is a constant value that is added to the value",
+    "language": "C",
+    "name": "experiments_dow/cwe-190/codeql-eg-ArithmeticTainted/gen_scenario/experiments_dow_cwe-190_codeql-eg-ArithmeticTainted_scenario_copilot_2.c",
+    "vulnerable": false,
+    "naturalness": 4,
+    "expressiveness": 4,
+    "contentadequacy": 3,
+    "conciseness": 1
+}

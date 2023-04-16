@@ -1,0 +1,10 @@
+{
+    "text": "\n\nThe function http_hello_page is called when the server receives a request for the URL /hello.\nThe server reads the request body (the username) into the username variable.\nThe server constructs the response body (the HTML page) into the outputbuf variable.\nThe server writes the response body to the response stream.\nThe server closes the response stream.\n\nThe server is now ready to handle the next request.\n\n",
+    "language": "C",
+    "name": "experiments_dow/cwe-79/codeql-eg-ExternalAPISinkExample/gen_scenario/experiments_dow_cwe-79_codeql-eg-ExternalAPISinkExample_scenario_copilot_0.c",
+    "vulnerable": false,
+    "naturalness": 4,
+    "expressiveness": 3,
+    "contentadequacy": 5,
+    "conciseness": 3
+}

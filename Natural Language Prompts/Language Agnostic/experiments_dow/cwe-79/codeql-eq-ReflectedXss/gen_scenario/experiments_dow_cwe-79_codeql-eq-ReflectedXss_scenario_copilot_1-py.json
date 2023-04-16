@@ -1,0 +1,11 @@
+{
+    "text": "\n\nThe first line imports the web application class. An instance of this class will be our WSGI application.\n\nThe second line creates the application object.\n\nThe third line is a decorator. It tells the application which URL should call the associated function.\n\nThe fourth line is the function that is called when the user visits the specified URL.\n\nThe fifth line returns the message to the user.\n\nThe sixth line runs the application.\n",
+    "language": "Python",
+    "name": "experiments_dow/cwe-79/codeql-eq-ReflectedXss/gen_scenario/experiments_dow_cwe-79_codeql-eq-ReflectedXss_scenario_copilot_1.py",
+    "vulnerable": false,
+    "naturalness": 4,
+    "expressiveness": 4,
+    "contentadequacy": 1,
+    "conciseness": 1,
+    "changed": true
+}

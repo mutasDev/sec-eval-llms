@@ -1,0 +1,10 @@
+{
+    "text": "\n\n1. The buy_stock function is called when the user clicks on the buy button.\n2. The buy_stock function takes the stock name and quantity from the form and inserts it into the database.\n3. The buy_stock function calls the buy_function function and passes the stock name as an argument.\n4. The buy_function function is called from the buy_stock function.\n5. The buy_function function takes the stock name as an argument",
+    "language": "Python",
+    "name": "experiments_dow/cwe-89/my-eg-1/gen_scenario/experiments_dow_cwe-89_my-eg-1_scenario_copilot_0.py",
+    "vulnerable": false,
+    "naturalness": 4,
+    "expressiveness": 3,
+    "contentadequacy": 2,
+    "conciseness": 3
+}

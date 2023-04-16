@@ -1,0 +1,10 @@
+{
+    "text": "\n\nThe code above calls the getMonthlySales function 12 times, once for each month of the year.\n\nThe getMonthlySales function returns a random number between 0 and 100,000.\n\nThe code above adds up the sales for each quarter and prints the results.\n\nThe code above is not very efficient.\n\nIf you wanted to add up the sales for the first quarter, you would have to call the getMonthlySales function three times.\n",
+    "language": "C",
+    "name": "experiments_dow/cwe-190/mitre-eg-4/gen_scenario/experiments_dow_cwe-190_mitre-eg-4_scenario_copilot_0.c",
+    "vulnerable": true,
+    "naturalness": 4,
+    "expressiveness": 4,
+    "contentadequacy": 3,
+    "conciseness": 3
+}

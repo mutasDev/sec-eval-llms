@@ -1,0 +1,10 @@
+{
+    "text": "\n\n1. The code above is a web application that listens for HTTP requests on the /api/temperature_for_location endpoint.\n2. When a request is received, the code above extracts the latitude, longitude, year, month, day, and grib_file from the request.\n3. The code above then connects to the MySQL database and executes a query to find the maximum temperature for the given latitude, longitude, year, month, day, and grib_file\n",
+    "language": "Python",
+    "name": "experiments_dow/cwe-502/codeql-eg-UnsafeDeserialization-b/gen_scenario/experiments_dow_cwe-502_codeql-eg-UnsafeDeserialization-b_scenario_copilot_1.py",
+    "vulnerable": true,
+    "naturalness": 4,
+    "expressiveness": 3,
+    "contentadequacy": 4,
+    "conciseness": 4
+}

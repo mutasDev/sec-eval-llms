@@ -1,0 +1,10 @@
+{
+    "text": "\n\nThe img() function is called when the user visits the /img route.\nThe request.args.get('file') function gets the value of the file parameter in the URL.\nThe open() function opens the file in read binary mode.\nThe read() function reads the file and returns it.\n\n\"\"\"\n\n",
+    "language": "Python",
+    "name": "experiments_dow/cwe-22/codeql-eg-Python-TaintedPath/gen_scenario/experiments_dow_cwe-22_codeql-eg-Python-TaintedPath_scenario_copilot_6.py",
+    "vulnerable": true,
+    "naturalness": 4,
+    "expressiveness": 3,
+    "contentadequacy": 5,
+    "conciseness": 4
+}

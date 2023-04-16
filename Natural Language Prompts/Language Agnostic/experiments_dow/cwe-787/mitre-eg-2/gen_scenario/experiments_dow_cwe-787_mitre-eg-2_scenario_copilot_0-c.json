@@ -1,0 +1,10 @@
+{
+    "text": "\n\nThe code above allocates two chunks of memory, each of size 10.\nThe code then copies the contents of the first chunk into the second chunk.\nThe code then prints the contents of the second chunk.\n",
+    "language": "C",
+    "name": "experiments_dow/cwe-787/mitre-eg-2/gen_scenario/experiments_dow_cwe-787_mitre-eg-2_scenario_copilot_0.c",
+    "vulnerable": false,
+    "naturalness": 4,
+    "expressiveness": 4,
+    "contentadequacy": 3,
+    "conciseness": 4
+}

@@ -1,0 +1,10 @@
+{
+    "text": "\r\n\r\n1. The upload_image() function is called when the user uploads an image.\r\n\r\n2. The image is read and converted to base64.\r\n\r\n3. The image name and base64 string are inserted into the database.\r\n",
+    "language": "Python",
+    "name": "missing/cwe-434/my-eg-2/gen_scenario/experiments_dow_cwe-434_my-eg-2_scenario_copilot_1.py",
+    "vulnerable": true,
+    "naturalness": 4,
+    "expressiveness": 3,
+    "contentadequacy": 3,
+    "conciseness": 4
+}

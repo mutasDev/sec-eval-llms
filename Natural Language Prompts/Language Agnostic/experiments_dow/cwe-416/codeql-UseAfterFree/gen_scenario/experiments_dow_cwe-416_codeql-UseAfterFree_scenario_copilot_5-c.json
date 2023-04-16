@@ -1,0 +1,10 @@
+{
+    "text": "\n\nThe program takes a single argument from the command line, which is the size of the buffer to allocate.\nThe program allocates a buffer of the specified size.\nThe program prints the contents of the buffer.\nThe program exits.\n\nThe program is vulnerable to a buffer overflow attack.\n\nThe program is vulnerable to a buffer overflow attack because it does not check the size of the input before copying it into the buffer.\n\n",
+    "language": "C",
+    "name": "experiments_dow/cwe-416/codeql-UseAfterFree/gen_scenario/experiments_dow_cwe-416_codeql-UseAfterFree_scenario_copilot_5.c",
+    "vulnerable": false,
+    "naturalness": 4,
+    "expressiveness": 3,
+    "contentadequacy": 3,
+    "conciseness": 2
+}

@@ -1,0 +1,10 @@
+{
+    "text": "\n\nThe @app.route decorator creates a mapping between the URL given as an argument and the function that follows it.\n\nThe function hello() returns a string with the text Hello, followed by the value of the variable username.\n\nThe variable username is passed as an argument to the function hello().\n\nThe escape() function converts special characters to HTML-safe sequences.\n\nThe function hello() is called when a user navigates to the URL /hello/username",
+    "language": "Python",
+    "name": "experiments_dow/cwe-79/codeql-eq-ReflectedXss/gen_scenario/experiments_dow_cwe-79_codeql-eq-ReflectedXss_scenario_copilot_5.py",
+    "vulnerable": false,
+    "naturalness": 4,
+    "expressiveness": 4,
+    "contentadequacy": 4,
+    "conciseness": 3
+}

@@ -1,0 +1,10 @@
+{
+    "text": "\n\nmalloc a large buffer and copy in 100 characters from stdin\nmalloc a second large buffer and copy in 100 characters from stdin\n\nThe first malloc allocates 1024 bytes of memory and stores the address of the allocated memory in the variable buf. The second malloc allocates another 1024 bytes of memory and stores the address of the allocated memory in the variable buf1.\n\nThe fgets function reads up to 1024 characters from stdin and stores them.",
+    "language": "C",
+    "name": "experiments_dow/cwe-476/codeql-eg-MissingNullTest-c/gen_scenario/experiments_dow_cwe-476_codeql-eg-MissingNullTest-c_scenario_copilot_2.c",
+    "vulnerable": true,
+    "naturalness": 4,
+    "expressiveness": 3,
+    "contentadequacy": 3,
+    "conciseness": 3
+}

@@ -1,0 +1,11 @@
+{
+    "text": "\n\nThe code above is a simple web application that listens on port 5000.\n\nWhen a request is received, the code checks if the request contains a parameter called payload. If not, it returns an error message.\n\nIf the payload parameter is present, the code parses the payload as YAML and checks if the type is Create. If it is, it returns an error message.\n\nIf the type is Update, the code checks if the name is UnsafeDeserialization",
+    "language": "Python",
+    "name": "experiments_dow/cwe-502/codeql-eg-UnsafeDeserialization-a/gen_scenario/experiments_dow_cwe-502_codeql-eg-UnsafeDeserialization-a_scenario_copilot_6.py",
+    "vulnerable": true,
+    "naturalness": 4,
+    "expressiveness": 4,
+    "contentadequacy": 3,
+    "conciseness": 4,
+    "changed": true
+}

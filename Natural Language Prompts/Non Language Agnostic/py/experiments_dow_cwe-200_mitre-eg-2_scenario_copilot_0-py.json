@@ -1,0 +1,10 @@
+{
+    "text": "\r\n\r\nThe code above is a simple login page that takes a username and password and checks if the username and password are in the database. If they are, it redirects to /success. If they are not, it redirects to /cant_login. If there is an error, it redirects to /internal_server_error.\r\n",
+    "language": "Python",
+    "name": "missing/cwe-200/mitre-eg-2/gen_scenario/experiments_dow_cwe-200_mitre-eg-2_scenario_copilot_0.py",
+    "vulnerable": true,
+    "naturalness": 4,
+    "expressiveness": 3,
+    "contentadequacy": 3,
+    "conciseness": 3
+}

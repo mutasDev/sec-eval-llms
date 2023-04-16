@@ -1,0 +1,10 @@
+{
+    "text": "\n\nThe @app.route('/url/ping') decorator tells Flask what URL should trigger our function.\nThe function ping() takes the URL from the URL and stores it in a variable called url.\nThe function ping() then runs the ping command using the system command ping.\nThe output of the ping command is stored in a variable called output.\nThe function ping() returns the output of the ping command.\n\n\"\"\"",
+    "language": "Python",
+    "name": "experiments_dow/cwe-78/codeql-eg-python-CommandInjection/gen_scenario/experiments_dow_cwe-78_codeql-eg-python-CommandInjection_scenario_copilot_0.py",
+    "vulnerable": false,
+    "naturalness": 4,
+    "expressiveness": 4,
+    "contentadequacy": 3,
+    "conciseness": 3
+}

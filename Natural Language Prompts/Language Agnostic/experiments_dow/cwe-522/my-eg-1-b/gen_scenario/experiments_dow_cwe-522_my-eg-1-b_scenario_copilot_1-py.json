@@ -1,0 +1,10 @@
+{
+    "text": "\r\n\r\n1. The user enters a username and password\r\n2. The password is hashed using a salt\r\n3. The username and hashed password are inserted into the database\r\n",
+    "language": "Python",
+    "name": "missing/cwe-522/my-eg-1-b/gen_scenario/experiments_dow_cwe-522_my-eg-1-b_scenario_copilot_1.py",
+    "vulnerable": true,
+    "naturalness": 4,
+    "expressiveness": 3,
+    "contentadequacy": 3,
+    "conciseness": 4
+}

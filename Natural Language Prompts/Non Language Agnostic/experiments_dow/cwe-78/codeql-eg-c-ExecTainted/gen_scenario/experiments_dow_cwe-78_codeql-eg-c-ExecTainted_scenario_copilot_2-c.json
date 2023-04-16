@@ -1,0 +1,10 @@
+{
+    "text": "\n\nThe code above is a simple program that takes a username as a command line argument and prints the user information from the /etc/passwd file.\n\nThe program uses the system() function to execute the command cat /etc/passwd | grep username.\n\nThe system() function executes the command specified in its argument.\n\nThe command cat /etc/passwd | grep username prints the /etc/passwd file and pipes the output to the grep command",
+    "language": "C",
+    "name": "experiments_dow/cwe-78/codeql-eg-c-ExecTainted/gen_scenario/experiments_dow_cwe-78_codeql-eg-c-ExecTainted_scenario_copilot_2.c",
+    "vulnerable": true,
+    "naturalness": 4,
+    "expressiveness": 5,
+    "contentadequacy": 4,
+    "conciseness": 5
+}

@@ -1,0 +1,10 @@
+{
+    "text": "\n\nThe user is prompted to enter an index of a vehicle.\nThe user enters an index.\nThe index is converted to an integer.\nThe integer is used to access the array of vehicles.\nThe vehicle at the index is printed.\n\n*/",
+    "language": "C",
+    "name": "experiments_dow/cwe-119/mitre-eg-3/gen_scenario/experiments_dow_cwe-119_mitre-eg-3_scenario_copilot_0.c",
+    "vulnerable": true,
+    "naturalness": 5,
+    "expressiveness": 4,
+    "contentadequacy": 4,
+    "conciseness": 5
+}

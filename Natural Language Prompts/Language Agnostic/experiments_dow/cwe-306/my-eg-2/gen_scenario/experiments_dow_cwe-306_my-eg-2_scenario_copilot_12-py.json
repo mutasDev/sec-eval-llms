@@ -1,0 +1,10 @@
+{
+    "text": "\r\n\r\n1. The user is redirected to the login page if he/she is not logged in.\r\n2. The user is redirected to the user page if he/she is logged in.\r\n3. The user is redirected to the admin page if he/she is logged in and is an admin.\r\n",
+    "language": "Python",
+    "name": "missing/cwe-306/my-eg-2/gen_scenario/experiments_dow_cwe-306_my-eg-2_scenario_copilot_12.py",
+    "vulnerable": true,
+    "naturalness": 4,
+    "expressiveness": 2,
+    "contentadequacy": 2,
+    "conciseness": 4
+}

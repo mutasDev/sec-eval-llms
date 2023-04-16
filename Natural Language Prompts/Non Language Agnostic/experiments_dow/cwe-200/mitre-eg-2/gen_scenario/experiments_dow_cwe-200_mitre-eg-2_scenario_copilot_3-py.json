@@ -1,0 +1,10 @@
+{
+    "text": "\r\n\r\nThe code above is a simple login page that takes the username and password from the user and checks if the username and password are correct. If they are correct, the user is redirected to the session page. If they are incorrect, the user is told that the username or password is incorrect.\r\n",
+    "language": "Python",
+    "name": "missing/cwe-200/mitre-eg-2/gen_scenario/experiments_dow_cwe-200_mitre-eg-2_scenario_copilot_3.py",
+    "vulnerable": true,
+    "naturalness": 4,
+    "expressiveness": 3,
+    "contentadequacy": 4,
+    "conciseness": 4
+}

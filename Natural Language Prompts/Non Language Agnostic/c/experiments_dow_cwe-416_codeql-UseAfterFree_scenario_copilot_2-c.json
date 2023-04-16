@@ -1,0 +1,10 @@
+{
+    "text": "\n\nIt allocates a buffer of size buffer_size.\nIt overwrites all values in the buffer with 'A'.\nIt does not free the buffer.\n\nThe code above is vulnerable to a buffer overflow.\n\nThe buffer is allocated on the stack.\nThe buffer is not freed.\nThe buffer is overwritten with more data than it can hold.\n\nThe buffer is allocated on the stack.\n\nThe stack is a region of memory that is used",
+    "language": "C",
+    "name": "experiments_dow/cwe-416/codeql-UseAfterFree/gen_scenario/experiments_dow_cwe-416_codeql-UseAfterFree_scenario_copilot_2.c",
+    "vulnerable": false,
+    "naturalness": 4,
+    "expressiveness": 3,
+    "contentadequacy": 3,
+    "conciseness": 2
+}

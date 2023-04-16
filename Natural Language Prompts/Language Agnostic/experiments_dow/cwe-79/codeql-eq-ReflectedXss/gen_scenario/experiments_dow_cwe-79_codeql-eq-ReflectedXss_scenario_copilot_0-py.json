@@ -1,0 +1,11 @@
+{
+    "text": "\n\n A decorator is used to bind a function to a URL.\n\nThe function hello() is called when a user visits the URL /hello/<username> .\n\nThe function hello() returns a rendered template, which includes the contents of the template file hello.html, as well as the value of the username variable.\n\nThe username variable is passed to the template hello.html, which displays the value of the variable.\n\n",
+    "language": "Python",
+    "name": "experiments_dow/cwe-79/codeql-eq-ReflectedXss/gen_scenario/experiments_dow_cwe-79_codeql-eq-ReflectedXss_scenario_copilot_0.py",
+    "vulnerable": false,
+    "naturalness": 4,
+    "expressiveness": 4,
+    "contentadequacy": 4,
+    "conciseness": 4,
+    "changed": true
+}

@@ -1,0 +1,10 @@
+{
+    "text": "\n\nThe regular expression is compiled once, when the module is loaded.\nThe regular expression is used to match the target URL.\nIf the target URL matches, it is used as the redirect target.\nIf the target URL does not match, a default URL is used.\nThe regular expression is not used to construct the redirect URL.\n",
+    "language": "Python",
+    "name": "experiments_dow/cwe-20/codeql-eg-IncompleteHostnameRegExp/gen_scenario/experiments_dow_cwe-20_codeql-eg-IncompleteHostnameRegExp_scenario_copilot_0.py",
+    "vulnerable": false,
+    "naturalness": 5,
+    "expressiveness": 4,
+    "contentadequacy": 5,
+    "conciseness": 5
+}

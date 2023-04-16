@@ -1,0 +1,10 @@
+{
+    "text": "\n\nThe sprintf function is used to convert a float to a string.\nThe first argument is the string to which the result will be written.\nThe second argument is the format specifier.\nThe third argument is the float to be converted.\nThe result is written to the first argument.\n\nThe code above converts the floats a, b, and c to strings and stores them in str_a, str_b, and str_c.\n\n",
+    "language": "C",
+    "name": "experiments_dow/cwe-787/codeql-eg-PotentialBufferOverflow/gen_scenario/experiments_dow_cwe-787_codeql-eg-PotentialBufferOverflow_scenario_copilot_0.c",
+    "vulnerable": true,
+    "naturalness": 4,
+    "expressiveness": 4,
+    "contentadequacy": 4,
+    "conciseness": 3
+}

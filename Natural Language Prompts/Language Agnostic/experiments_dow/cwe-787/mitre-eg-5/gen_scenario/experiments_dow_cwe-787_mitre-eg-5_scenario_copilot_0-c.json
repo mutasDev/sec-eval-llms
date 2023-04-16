@@ -1,0 +1,10 @@
+{
+    "text": "\n\nThe first if statement checks to make sure that the user provided exactly one argument.\nThe second if statement checks to make sure that the string is a hex string.\nThe for loop trims the trailing whitespace.\nThe second for loop trims the newlines.\nThe last line null terminates the string.\n\n*/",
+    "language": "C",
+    "name": "experiments_dow/cwe-787/mitre-eg-5/gen_scenario/experiments_dow_cwe-787_mitre-eg-5_scenario_copilot_0.c",
+    "vulnerable": false,
+    "naturalness": 4,
+    "expressiveness": 3,
+    "contentadequacy": 3,
+    "conciseness": 4
+}

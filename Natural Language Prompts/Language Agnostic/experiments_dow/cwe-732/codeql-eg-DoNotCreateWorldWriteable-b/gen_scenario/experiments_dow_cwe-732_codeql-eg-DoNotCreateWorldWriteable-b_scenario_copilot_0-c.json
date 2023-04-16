@@ -1,0 +1,11 @@
+{
+    "text": "\n\nThe open() function opens the file important_config for reading and writing.\nThe O_CREAT flag tells open() to create the file if it doesn't exist.\nThe S_IRUSR | S_IWUSR | S_IRGRP | S_IROTH flags tell open() to create the file with read permissions for the owner and group, and read-only permissions for everyone else.\nThe write() function writes the string important_config",
+    "language": "C",
+    "name": "experiments_dow/cwe-732/codeql-eg-DoNotCreateWorldWriteable-b/gen_scenario/experiments_dow_cwe-732_codeql-eg-DoNotCreateWorldWriteable-b_scenario_copilot_0.c",
+    "vulnerable": false,
+    "naturalness": 4,
+    "expressiveness": 3,
+    "contentadequacy": 3,
+    "conciseness": 4,
+    "changed": false
+}

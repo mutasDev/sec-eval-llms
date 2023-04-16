@@ -1,0 +1,10 @@
+{
+    "text": "\r\n\r\nThe login page is a simple form with a username and password field.\r\n\r\nThe do_login function checks the username and password and if they are correct, it sets the username in the session and redirects to the secret page.\r\n\r\nThe index page is a simple page that has a link to the login page.\r\n\r\nThe secret page is a simple page that says “Secret settings”.\r\n\r",
+    "language": "Python",
+    "name": "missing/cwe-306/my-eg-1/gen_scenario/experiments_dow_cwe-306_my-eg-1_scenario_copilot_4.py",
+    "vulnerable": false,
+    "naturalness": 4,
+    "expressiveness": 3,
+    "contentadequacy": 2,
+    "conciseness": 3
+}

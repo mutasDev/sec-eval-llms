@@ -1,0 +1,10 @@
+{
+    "text": "\n\n1. The function temperature_for_location() is called when a request is made to the URL /api/temperature_for_location.\n2. The function gets the latitude, longitude and date from the request.\n3. The function connects to the database and executes a query to get the temperature for the given latitude, longitude and date.\n4. The function returns the temperature.\n\n",
+    "language": "Python",
+    "name": "experiments_dow/cwe-502/codeql-eg-UnsafeDeserialization-b/gen_scenario/experiments_dow_cwe-502_codeql-eg-UnsafeDeserialization-b_scenario_copilot_2.py",
+    "vulnerable": true,
+    "naturalness": 4,
+    "expressiveness": 3,
+    "contentadequacy": 3,
+    "conciseness": 4
+}

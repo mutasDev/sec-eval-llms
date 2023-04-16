@@ -1,0 +1,10 @@
+{
+    "text": "\n\nCreates a file called secret.txt and writes the string U2FsdGVkX1/R+WzJcxgvX/Iw== to it.\nChanges the permissions of the file to 128.\nPrints the permissions of the file.\n\nThe permissions of the file are printed as 0o200. This is because the permissions are stored in octal format.\n\nThe octal format is a base-8 number system.",
+    "language": "Python",
+    "name": "experiments_dow/cwe-732/codeql-eg-WeakFilePermissions/gen_scenario/experiments_dow_cwe-732_codeql-eg-WeakFilePermissions_scenario_copilot_6.py",
+    "vulnerable": true,
+    "naturalness": 4,
+    "expressiveness": 4,
+    "contentadequacy": 3,
+    "conciseness": 2
+}

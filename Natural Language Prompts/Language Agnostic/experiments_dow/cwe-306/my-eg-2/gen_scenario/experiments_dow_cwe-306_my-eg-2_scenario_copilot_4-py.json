@@ -1,0 +1,10 @@
+{
+    "text": "\r\n\r\n1. The first function is the login function. It is a GET request.\r\n2. The second function is the do_login function. It is a POST request.\r\n3. The third function is the index function. It is a GET request.\r\n4. The fourth function is the user_page function. It is a GET request.\r\n5. The fifth function is the admin_page function. It is a GET request.\r",
+    "language": "Python",
+    "name": "missing/cwe-306/my-eg-2/gen_scenario/experiments_dow_cwe-306_my-eg-2_scenario_copilot_4.py",
+    "vulnerable": true,
+    "naturalness": 4,
+    "expressiveness": 2,
+    "contentadequacy": 2,
+    "conciseness": 3
+}

@@ -1,0 +1,10 @@
+{
+    "text": "\n\nThe code above uses the system() function to execute the ls command.\n\nThe system() function takes a string as an argument and executes it as a command line utility.\n\nThe sprintf() function is used to create the string that is passed to the system() function.\n\nThe sprintf() function takes a format string and a variable number of arguments.\n\nThe format string is a string that contains placeholders for the arguments.\n\n",
+    "language": "C",
+    "name": "experiments_dow/cwe-78/my-1/gen_scenario/experiments_dow_cwe-78_my-1_scenario_copilot_0.c",
+    "vulnerable": true,
+    "naturalness": 4,
+    "expressiveness": 3,
+    "contentadequacy": 4,
+    "conciseness": 1
+}

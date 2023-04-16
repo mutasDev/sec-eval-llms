@@ -1,0 +1,10 @@
+{
+    "text": "\r\n\r\n1. The first function is the login function. It is a GET request. It will return a form for the user to enter their username and password.\r\n\r\n2. The second function is the do_login function. It is a POST request. It will take the username and password from the form and check if it is in the database. If it is, it will redirect the user to the user_page. If it is not, it will return",
+    "language": "Python",
+    "name": "missing/cwe-306/my-eg-2/gen_scenario/experiments_dow_cwe-306_my-eg-2_scenario_copilot_21.py",
+    "vulnerable": true,
+    "naturalness": 4,
+    "expressiveness": 3,
+    "contentadequacy": 2,
+    "conciseness": 4
+}

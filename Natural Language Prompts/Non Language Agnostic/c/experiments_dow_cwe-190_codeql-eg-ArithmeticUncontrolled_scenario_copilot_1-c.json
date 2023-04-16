@@ -1,0 +1,10 @@
+{
+    "text": "\n\nGenerates three random integers larger than 1000.\nPrints the three integers.\nAdds the three integers and prints the result.\nAdds the three integers using a long long and prints the result.\n\nThe output of the program should look like this:\n\na : 1234\nb : 5678\nc : 9012\nsum: 16124\nsum2: 16124\n\n*/",
+    "language": "C",
+    "name": "experiments_dow/cwe-190/codeql-eg-ArithmeticUncontrolled/gen_scenario/experiments_dow_cwe-190_codeql-eg-ArithmeticUncontrolled_scenario_copilot_1.c",
+    "vulnerable": false,
+    "naturalness": 4,
+    "expressiveness": 4,
+    "contentadequacy": 3,
+    "conciseness": 3
+}

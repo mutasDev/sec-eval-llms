@@ -1,0 +1,11 @@
+{
+    "text": "\n\nThe code above is a simple web application that has a route /redirect/<url> that takes a URL as a parameter.\n\nThe function redirect_invalid_url() checks if the URL is from example.com. If it is, it redirects the user to the URL. If it is not, it returns an error message.\n\n",
+    "language": "Python",
+    "name": "experiments_dow/cwe-20/codeql-eg-IncompleteUrlSubstringSanitization/gen_scenario/experiments_dow_cwe-20_codeql-eg-IncompleteUrlSubstringSanitization_scenario_copilot_3.py",
+    "vulnerable": true,
+    "naturalness": 4,
+    "expressiveness": 5,
+    "contentadequacy": 5,
+    "conciseness": 5,
+    "changed": true
+}

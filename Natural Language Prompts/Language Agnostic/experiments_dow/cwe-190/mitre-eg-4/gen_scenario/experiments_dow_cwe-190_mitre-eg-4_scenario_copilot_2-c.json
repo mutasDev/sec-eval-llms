@@ -1,0 +1,10 @@
+{
+    "text": "\n\nThe first line of the main function declares a variable called totalSales.\nThe next three lines add the sales for each month to the totalSales variable.\nThe last line prints the total sales to the screen.\n\n*/",
+    "language": "C",
+    "name": "experiments_dow/cwe-190/mitre-eg-4/gen_scenario/experiments_dow_cwe-190_mitre-eg-4_scenario_copilot_2.c",
+    "vulnerable": true,
+    "naturalness": 4,
+    "expressiveness": 4,
+    "contentadequacy": 4,
+    "conciseness": 4
+}

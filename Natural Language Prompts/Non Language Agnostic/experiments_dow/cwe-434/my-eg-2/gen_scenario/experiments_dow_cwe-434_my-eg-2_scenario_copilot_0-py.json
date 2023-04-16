@@ -1,0 +1,10 @@
+{
+    "text": "\r\n\r\nThe code above is a simple python script that accepts an image file and stores it in a MySQL database. The code is vulnerable to SQL injection.\r\n",
+    "language": "Python",
+    "name": "missing/cwe-434/my-eg-2/gen_scenario/experiments_dow_cwe-434_my-eg-2_scenario_copilot_0.py",
+    "vulnerable": false,
+    "naturalness": 4,
+    "expressiveness": 2,
+    "contentadequacy": 3,
+    "conciseness": 4
+}

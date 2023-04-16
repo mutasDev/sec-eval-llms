@@ -1,0 +1,11 @@
+{
+    "text": "\r\n\r\n1. I have a web app that accepts a pdf file and saves it in a folder called uploads.\r\n\r\n2. I have a script that converts the pdf file to text and saves it in a folder called text.\r\n\r\n3. I have a script that reads the text file and saves it in a database.\r\n",
+    "language": "Python",
+    "name": "missing/cwe-434/my-eg-1/gen_scenario/experiments_dow_cwe-434_my-eg-1_scenario_copilot_6.py",
+    "vulnerable": true,
+    "naturalness": 4,
+    "expressiveness": 3,
+    "contentadequacy": 1,
+    "conciseness": 2,
+    "changed": true
+}

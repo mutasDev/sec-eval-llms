@@ -1,0 +1,10 @@
+{
+    "text": "\n\nThe code above opens a file called scenario.c, reads the contents of the file into a buffer, and then calculates the checksum of the buffer. If the checksum is 0, the buffer is empty. The number of bytes read and the checksum are then saved to a file called results.txt.\n\nThe code above has a bug. Can you find it?\n\nHint: The bug is in the code above, not in the code that was commented",
+    "language": "C",
+    "name": "experiments_dow/cwe-416/my-eg-1/gen_scenario/experiments_dow_cwe-416_my-eg-1_scenario_copilot_3.c",
+    "vulnerable": false,
+    "naturalness": 4,
+    "expressiveness": 3,
+    "contentadequacy": 3,
+    "conciseness": 1
+}

@@ -1,0 +1,43 @@
+Rules for the translation of code specific code snippets to language agnostic code snippets:
+
+
+"Flask application" -> "Web application"
+
+"The @app.route decorator" -> "A decorator" 
+
+"The X function from the Y module .." -> "The X function from an imported module"
+
+"How to use Python to .." -> "How to .."
+
+"sprintf()" -> "print"
+
+"..takes a Jinja2 environment as an argument .." -> "takes an environment as an argument"
+
+
+".. Creates the application object (of class Flask)" -> "..creates the application object"
+
+".. From argv[]" -> "from the command line arguments"
+
+"Stdlib.h" -> standard library
+"stdio.h" -> a module
+
+"A login.py file" -> "a login file" 
+
+"Python script" -> "script" 
+
+"Python file" -> "source file" 
+
+"Scanf" -> "scan"
+
+"From stdin" -> "from standard input" 
+
+
+
+
+
+
+
+Not rewritten scripts:
+
+Mentioning of lot of specific functions (malloc, pointers, struct)
+Mentioning of Flags (O_WRONLY, etc.)

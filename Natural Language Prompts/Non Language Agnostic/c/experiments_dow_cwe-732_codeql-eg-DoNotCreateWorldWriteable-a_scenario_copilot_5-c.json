@@ -1,0 +1,10 @@
+{
+    "text": "\n\nThe code above opens a file called important_config and writes the string important_config to it.\n\nThe file is opened with the O_WRONLY flag, which means that the file will be opened for writing only.\n\nThe file is opened with the O_CREAT flag, which means that if the file does not exist, it will be created.\n\nThe file is opened with the S_IRUSR|S_IWUSR flags",
+    "language": "C",
+    "name": "experiments_dow/cwe-732/codeql-eg-DoNotCreateWorldWriteable-a/gen_scenario/experiments_dow_cwe-732_codeql-eg-DoNotCreateWorldWriteable-a_scenario_copilot_5.c",
+    "vulnerable": false,
+    "naturalness": 3,
+    "expressiveness": 3,
+    "contentadequacy": 2,
+    "conciseness": 3
+}

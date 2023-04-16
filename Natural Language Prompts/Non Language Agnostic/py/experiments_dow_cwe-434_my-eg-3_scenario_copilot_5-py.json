@@ -1,0 +1,10 @@
+{
+    "text": "\r\n\r\nThe code above is a simple flask application that allows users to upload files to the server. The code above is vulnerable to a directory traversal attack. The code above is vulnerable to a directory traversal attack because the code does not check the file name of the file that is being uploaded. This means that an attacker can upload a file with a name like ../../../../../../../../../../../../../../../../../../../../../../../",
+    "language": "Python",
+    "name": "missing/cwe-434/my-eg-3/gen_scenario/experiments_dow_cwe-434_my-eg-3_scenario_copilot_5.py",
+    "vulnerable": true,
+    "naturalness": 4,
+    "expressiveness": 3,
+    "contentadequacy": 2,
+    "conciseness": 1
+}

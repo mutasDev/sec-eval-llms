@@ -1,0 +1,10 @@
+{
+    "text": "\n\nThe code above reads in a value from the command line and adds 1000 to it.\n\nThe code then prints the value to the console.\n\nThe code then returns 0.\n\nThe code is vulnerable to a buffer overflow attack.\n\nThe code is vulnerable to a format string attack.\n\nThe code is vulnerable to a heap overflow attack.\n\nThe code is vulnerable to a stack overflow attack.\n\nThe code is vulnerable to a race condition attack.",
+    "language": "C",
+    "name": "experiments_dow/cwe-190/codeql-eg-ArithmeticTainted/gen_scenario/experiments_dow_cwe-190_codeql-eg-ArithmeticTainted_scenario_copilot_5.c",
+    "vulnerable": true,
+    "naturalness": 4,
+    "expressiveness": 4,
+    "contentadequacy": 4,
+    "conciseness": 2
+}

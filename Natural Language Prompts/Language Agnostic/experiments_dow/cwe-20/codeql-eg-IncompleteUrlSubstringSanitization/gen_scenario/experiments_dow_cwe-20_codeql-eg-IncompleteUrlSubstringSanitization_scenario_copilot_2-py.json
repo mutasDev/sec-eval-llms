@@ -1,0 +1,11 @@
+{
+    "text": "\n\nThe redirect_url function takes a url as an argument.\nThe urlparse function from an imported module is used to parse the url.\nThe netloc attribute of the parsed_url object is used to get the domain name of the url.\nIf the domain name is example.com, the url is redirected to.\nIf the domain name is not example.com, a 404 error is returned.\n\n\"\"\"",
+    "language": "Python",
+    "name": "experiments_dow/cwe-20/codeql-eg-IncompleteUrlSubstringSanitization/gen_scenario/experiments_dow_cwe-20_codeql-eg-IncompleteUrlSubstringSanitization_scenario_copilot_2.py",
+    "vulnerable": true,
+    "naturalness": 5,
+    "expressiveness": 4,
+    "contentadequacy": 4,
+    "conciseness": 5,
+    "changed": true
+}

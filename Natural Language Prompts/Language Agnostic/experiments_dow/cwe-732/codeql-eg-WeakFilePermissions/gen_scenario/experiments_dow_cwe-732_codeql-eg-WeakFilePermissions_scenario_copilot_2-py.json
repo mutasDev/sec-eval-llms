@@ -1,0 +1,10 @@
+{
+    "text": "\n\nWe create a file called secret.txt and write the string U2FsdGVkX1/R+WzJcxgvX/Iw== to it.\n\nWe then change the permissions of the file to 0000.\n\nThis means that the file is not readable, writable or executable by anyone.\n\nIf you try to open the file in a text editor, you will get an error.\n\n",
+    "language": "Python",
+    "name": "experiments_dow/cwe-732/codeql-eg-WeakFilePermissions/gen_scenario/experiments_dow_cwe-732_codeql-eg-WeakFilePermissions_scenario_copilot_2.py",
+    "vulnerable": true,
+    "naturalness": 4,
+    "expressiveness": 3,
+    "contentadequacy": 4,
+    "conciseness": 2
+}

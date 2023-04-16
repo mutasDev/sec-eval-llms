@@ -1,0 +1,10 @@
+{
+    "text": "\n\nThe memcpy function copies a number of bytes from one memory location to another.\n\nThe first argument is the destination, the second argument is the source, and the third argument is the number of bytes to copy.\n\nThe strlen function returns the length of a string.\n\nThe code above copies the message to the buffer.\n\nThe buffer is not big enough to hold the message, so the memcpy function will write past the end of the buffer",
+    "language": "C",
+    "name": "experiments_dow/cwe-119/codeql-eg-OverflowBuffer/gen_scenario/experiments_dow_cwe-119_codeql-eg-OverflowBuffer_scenario_copilot_1.c",
+    "vulnerable": false,
+    "naturalness": 4,
+    "expressiveness": 3,
+    "contentadequacy": 2,
+    "conciseness": 2
+}
