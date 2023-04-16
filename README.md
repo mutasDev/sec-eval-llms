@@ -3,8 +3,20 @@
 
 This repository holds the input data sets, the CodeQL queries used, and the generated programs and analysis results of the experiments conducted in my Master's Thesis submitted on the 17th of April 2023.
 
-## Directories
+## Data
 In the directories of this repository, the following data can be found:
 
 The raw set of natural language specifications of vulnerability-prone programs: 
 [Natural Language Prompts](Natural%20Language%20Prompts/Non%20Language%20Agnostic/)
+
+The set of language-agnostic natural language specifications of the same vulnerability-prone programs:
+[Language Agnostic Prompts](Natural%20Language%20Prompts/Language%20Agnostic/)
+
+The CodeQL query set curated for covering the a subset of Python-possible vulnerabilities of the Top 25 CWEs of 2021 and 2022:
+[CodeQL Query Set](CodeQL%20Queries/top25)
+
+The program synthesised by the LLMs for all four experimental setups:
+[Programs](Synthesised%20Programs)
+
+And finally the CodeQL Result files yielded when evaluating the query set on those programs:
+[Query Results](CodeQL%20Results)
